@@ -1,5 +1,23 @@
 **/Target\ (2)
 *.rs~
 **/bin/
-*.*~
+**/*.*~
 **/#*.*#
+*.o
+*.dSYM
+.#article.md
+.DS_Store
+Collatz conjecture (1).html
+Collatz.pdf
+Makefile~
+a.out
+collatz2
+collatz_naive
+collatz_tail
+cuda_collatz/Makefile~
+cuda_collatz/collatz
+cuda_collatz/collatz2
+cuda_collatz/param_test.py
+cuda_collatz/vectorAdd/
+https_get
+style.css
