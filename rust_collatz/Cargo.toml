@@ -1,0 +1,9 @@
+[package]
+name = "rust_collatz"
+version = "0.1.0"
+authors = ["Josh Trate <jtscuba@gmail.com>"]
+
+[dependencies]
+num_cpus = "1.0"
+lazy_static = "1.0"
+threadpool = "1.0"
